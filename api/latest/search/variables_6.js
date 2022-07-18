@@ -43,7 +43,7 @@ var searchData=
   ['fragmenttype_40',['fragmentType',['../struct_ogre_1_1_scene_query_1_1_world_fragment.html#a57f755adea8044729adff811f61f1a60',1,'Ogre::SceneQuery::WorldFragment']]],
   ['frame_41',['frame',['../class_ogre_1_1_profile_instance.html#a08c87da13e23c3899052faab7680da30',1,'Ogre::ProfileInstance']]],
   ['framebuffer_42',['framebuffer',['../class_ogre_1_1_vulkan_delayed__vk_destroy_framebuffer.html#adfc0f32108ff444ffe7f36d636e6f152',1,'Ogre::VulkanDelayed_vkDestroyFramebuffer']]],
-  ['frameidx_43',['frameIdx',['../class_ogre_1_1_vulkan_delayed_func_base.html#a6be209e27bca4397d3bbae95163626ff',1,'Ogre::VulkanDelayedFuncBase']]],
+  ['frameidx_43',['frameIdx',['../struct_ogre_1_1_vulkan_vao_manager_1_1_dirty_block.html#a8b58bc39ee77bb187a25fd873e30dcf6',1,'Ogre::VulkanVaoManager::DirtyBlock::frameIdx()'],['../class_ogre_1_1_vulkan_delayed_func_base.html#a6be209e27bca4397d3bbae95163626ff',1,'Ogre::VulkanDelayedFuncBase::frameIdx()']]],
   ['framenumber_44',['frameNumber',['../class_ogre_1_1_profile_instance.html#a40b76f9c74bd13e1b07db0559af27dc5',1,'Ogre::ProfileInstance']]],
   ['frametime_45',['frameTime',['../struct_ogre_1_1_profile_frame.html#ad3059f1947916a127047dd519f3ccae0',1,'Ogre::ProfileFrame']]],
   ['freeondestruction_46',['freeOnDestruction',['../class_ogre_1_1_image_codec2_1_1_image_data2.html#aedf63892c01fd3e14af727df3864083b',1,'Ogre::ImageCodec2::ImageData2']]],
